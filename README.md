@@ -2,7 +2,7 @@
 
 Hello!
 
-Test one - (the guide tutorial)
+Test one - The Guide Tutorial
 
 Test two - GitHubDesktop
 
